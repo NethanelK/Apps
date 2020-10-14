@@ -9,7 +9,9 @@ sun finder will tell you where the sun is on your way so you can sit in the shad
  - [Google play](https://play.google.com/store/apps/details?id=koler.nick.sunfinder)
  - [App store]( https://apps.apple.com/app/id1478555605)
 
-App for Cywareness -   https://cywareness.io
+
+
+App for [Cywareness](https://cywareness.io)
 
 # Suspicious Link Examiner
 
